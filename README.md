@@ -3,6 +3,6 @@
 - Initialize the project
 - Build main.js
 ```bash
-$ npm init
+$ npm install
 $ npm run build
 ```
