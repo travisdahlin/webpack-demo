@@ -4,5 +4,5 @@
 - Build main.js
 ```bash
 $ npm init
-$ npx webpack
+$ npm run build
 ```
